@@ -9,11 +9,11 @@ I’m a 4th-year Computer Engineering student at Bar-Ilan University and a Cours
 - 🎯 **Skills:** Specializing in C, Python, and Java programming with a strong foundation in Object-Oriented Programming (OOP), computer networks, and various operating systems.
 - 🏆 **Recognition:** Dean's List for 2023 at the Faculty of Engineering at Bar-Ilan University.
 
-## Seeking Opportunities
+## Most Used Languages
 
-I’m highly motivated, detail-oriented, and a creative problem solver with a keen analytical mind. I thrive in team environments and am a fast learner who is communicative and collaborative. 
+Here are the most used languages in my GitHub repositories:
 
-I’m currently looking for an internship opportunity where I can leverage my technical skills and contribute to a dynamic team. I’m eager to grow personally and professionally, and to make a meaningful impact.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShohamGalili&layout=compact)
 
 ## Contact Me
 
